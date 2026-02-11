@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Kiki's Delivery Service",
+    "genre": "Animation",
+    "rating": 9.6,
+    "year": 1989,
+    "watched": false
+  },
+  {
+    "title": "Porco Rosso",
+    "genre": "Animation",
+    "rating": 9.4,
+    "year": 1992,
+    "watched": false
+  },
+  {
+    "title": "Pom Poko",
+    "genre": "Animation",
+    "rating": 7.8,
+    "year": 1994,
+    "watched": false
+  },
+  {
+    "title": "Spirited Away",
+    "genre": "Animation",
+    "rating": 9.7,
+    "year": 2001,
+    "watched": false
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "genre": "Animation",
+    "rating": 8.7,
+    "year": 2004,
+    "watched": false
+  }
+]
